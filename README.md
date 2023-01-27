@@ -1,4 +1,3 @@
-# Bernie Petters
 
 ## Full Stack Developer
 
