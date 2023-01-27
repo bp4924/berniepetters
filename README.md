@@ -1,5 +1,3 @@
-README.md
-
 # Bernie Petters
 
 ## Full Stack Developer
