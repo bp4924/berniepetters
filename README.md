@@ -1,4 +1,14 @@
-# berniepetters
+# Bernie Petters
+
+## Full Stack Developer
+
+  - Customer-focused problem-solver
+  - Experience with the complete MERN stack
+  
+Recent graduate of the Georgia Tech Full Stack Flex Coding Bootcamp
+Pilot | Runner | Navy Veteran
+
+
 
 
 
