@@ -6,13 +6,12 @@
   - Experience with the complete MERN stack
   
 Recent graduate of the Georgia Tech Full Stack Flex Coding Bootcamp
+
 Pilot | Runner | Navy Veteran
 
 
 
-
-
-📫 How to reach me: 
+## How to reach me: 
 
 - ### email
   <a href="mailTo: bp4924@gmail.com?subject=Hello!" alt="" >bp4924@gmail.com</a>
