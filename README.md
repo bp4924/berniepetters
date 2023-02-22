@@ -4,7 +4,7 @@
   - Customer-focused problem-solver
   - Experience with the complete MERN stack
   
-Recent graduate of the Georgia Tech Full Stack Flex Coding Bootcamp
+Graduate of the Georgia Tech Full Stack Flex Coding Bootcamp
 
 Pilot | Runner | Navy Veteran
 
