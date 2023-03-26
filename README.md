@@ -4,7 +4,8 @@
   - Customer-focused problem-solver
   - Experience with the complete MERN stack
   
-Georgia Tech Full Stack Flex Coding Bootcamp/
+Georgia Tech Full Stack Flex Coding Bootcamp 
+
 BS, Industrial Engineering, Auburn University
 
 Pilot | Runner | Navy Veteran
