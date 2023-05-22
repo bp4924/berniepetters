@@ -1,5 +1,5 @@
 
-## Full Stack Developer
+## Software Engineer
 
   - Customer-focused problem-solver
   - Experience with the complete MERN stack
@@ -19,5 +19,8 @@ Pilot | Runner | Navy Veteran
 
 - ### LinkedIn
   [bernie-petters](https://linkedin.com/in/bernie-petters)
+  
+- ### Resume
+  https://docs.google.com/document/d/1LLniH_ApgK-3Hdpu2rUQJ2XXlB5b0NWw/edit?usp=sharing&ouid=111310025198577527839&rtpof=true&sd=true
   
 
