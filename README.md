@@ -1,14 +1,21 @@
 
 ## Software Engineer
 
-  - Customer-focused problem-solver
-  - Experience with the complete MERN stack
-  
-Georgia Tech Full Stack Flex Coding Bootcamp 
-
-BS, Industrial Engineering, Auburn University
-
 Pilot | Runner | Navy Veteran
+
+  - Customer-focused problem-solver
+  - Specializing in full-stack web applications using React (Next.js), Node.js, Express
+  - Databases: MySQL, MongoDB, SQL Server
+    
+  
+**Auburn University**
+
+BS, Industrial Engineering
+
+**Georgia Institute of Technology**
+
+Full Stack Software Engineering, Bootcamp Graduate
+
 
 
 
