@@ -29,6 +29,6 @@ Full Stack Software Engineering, Bootcamp Graduate
   
 - ### [Resume](https://docs.google.com/document/d/1ez6TmBcBWt2nIZzvBTAzX3z9E2mvwPqsEN5K10m-QTc/edit?usp=sharing)
 
-- ### [Portfolio](https://github.com/bp4924/bp-react-portfolio)
+- ### [Portfolio](https://github.com/bp4924/bp-react-portfolio/deployments/github-pages)
   
 
