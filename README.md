@@ -27,6 +27,8 @@ Full Stack Software Engineering, Bootcamp Graduate
 - ### LinkedIn
   [bernie-petters](https://linkedin.com/in/bernie-petters)
   
-- ### [Resume](https://docs.google.com/document/d/1LLniH_ApgK-3Hdpu2rUQJ2XXlB5b0NWw/edit?usp=sharing&ouid=111310025198577527839&rtpof=true&sd=true)
+- ### [Resume](https://docs.google.com/document/d/1ez6TmBcBWt2nIZzvBTAzX3z9E2mvwPqsEN5K10m-QTc/edit?usp=sharing)
+
+- ### [Portfolio](https://github.com/bp4924/bp-react-portfolio)
   
 
