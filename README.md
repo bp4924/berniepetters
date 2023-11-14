@@ -10,7 +10,7 @@ Pilot | Runner | Navy Veteran
   
 **Auburn University** -- BS, Industrial Engineering 
 
-**Georgia Institute of Technology** -- Full Stack Software Engineering, Bootcamp Graduate
+**Georgia Institute of Technology** -- Full Stack Software Engineering
 
 
 
