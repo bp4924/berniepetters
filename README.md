@@ -8,13 +8,9 @@ Pilot | Runner | Navy Veteran
   - Databases: MySQL, MongoDB, SQL Server
     
   
-**Auburn University**
+**Auburn University** -- BS, Industrial Engineering 
 
-BS, Industrial Engineering
-
-**Georgia Institute of Technology**
-
-Full Stack Software Engineering, Bootcamp Graduate
+**Georgia Institute of Technology** -- Full Stack Software Engineering, Bootcamp Graduate
 
 
 
