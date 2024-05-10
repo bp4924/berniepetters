@@ -23,7 +23,7 @@ Pilot | Runner | Navy Veteran
 - ### LinkedIn
   [bernie-petters](https://linkedin.com/in/bernie-petters)
   
-- ### [Resume](https://docs.google.com/document/d/1ez6TmBcBWt2nIZzvBTAzX3z9E2mvwPqsEN5K10m-QTc/edit?usp=sharing)
+- ### [Resume](https://www.youtube.com/watch?v=xagpXAhL_-Y)
 
 - ### [Portfolio](https://bp4924.github.io/bp-react-portfolio/)
 
